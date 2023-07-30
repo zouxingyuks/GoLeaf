@@ -1,0 +1,10 @@
+goleaf:
+  name: ip:port
+  port: "9090"
+  snowflake:
+    enable: true
+    start: "2020-01-01"
+    zookeeperaddress: ""
+logs:
+  level: info
+  path: ./logs/logrus.log
